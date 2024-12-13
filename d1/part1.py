@@ -13,9 +13,6 @@ with open(file) as f:
 d1.sort()
 d2.sort()
 
-d1c = d1
-d2c = d2
-
 total = 0;
 for i in range(len(d1)):
     diff = abs(d1[i] -d2[i])

@@ -4,7 +4,7 @@ def getCount(num, d2) -> int:
     count = d2.count(num)
     return count * num
 
-file = "numbers.txt"
+file = "data.txt"
 
 d1 = []
 d2 = []

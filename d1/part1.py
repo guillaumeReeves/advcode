@@ -1,6 +1,6 @@
 #!/bin/python
 
-file = "numbers.txt"
+file = "data.txt"
 
 d1 = []
 d2 = []
